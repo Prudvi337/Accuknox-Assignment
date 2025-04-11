@@ -1,0 +1,2 @@
+NAME               TYPE           CLUSTER-IP      EXTERNAL-IP   PORT(S)        AGE
+datetime-service   LoadBalancer   10.103.142.82   localhost     80:30161/TCP   36s

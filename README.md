@@ -13,7 +13,7 @@ This repository contains three completed tasks involving product design, Kuberne
 Design a product that helps users scan and analyze container images to identify vulnerabilities, especially critical and high-severity issues. The goal is to help users prioritize remediation actions effectively at scale.
 
 **Deliverables**:
-- 📄 [Product Requirements Document](./product-requirements.md)
+- 📄 [Product Requirements Document](./PS-1/PRD.pdf)
 - 🖼️ [Low-Fidelity Wireframes](./wireframes)
 - 🔧 (Bonus) Development Action Items to discuss with the engineering team
 

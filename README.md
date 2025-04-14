@@ -14,7 +14,7 @@ Design a product that helps users scan and analyze container images to identify 
 
 **Deliverables**:
 - 📄 [Product Requirements Document](./PS-1/PRD.pdf)
-- 🖼️ [Low-Fidelity Wireframes](./wireframes)
+- 🖼️ [Low-Fidelity Wireframes](./PS-1)
 - 🔧 (Bonus) Development Action Items to discuss with the engineering team
 
 ---
@@ -29,7 +29,7 @@ Install a local Kubernetes cluster (using Minikube, K3s, or Kind), scan it using
 **Deliverables**:
 - ✅ Installed K8s using: `Kind`
 - 🛡️ Security Tool Used: `Kubescape`
-- 📦 Output: [`k8s-findings.json`](./k8s-findings.json)
+- 📦 Output: [`k8s-findings.json`](./PS-2)
 
 ---
 
@@ -44,8 +44,8 @@ Build a minimal GoLang web server that shows the current date and time, containe
 - 👨‍💻 [GoLang App Source Code](./datetime-app/)
 - 🐳 Docker Image: [`prudvi77/datetime-app`](https://hub.docker.com/repository/docker/prudvi77/datetime-app)
 - 📦 Kubernetes Manifests:
-  - [`deployment.yaml`](./k8s/deployment.yaml)
-  - [`service.yaml`](./k8s/service.yaml)
+  - [`deployment.yaml`](./PS-3/deployment.yaml)
+  - [`service.yaml`](./PS-3/service.yaml)
 - 🌐 Public Access: Exposed using `NodePort` or Ingress Controller (configured on cloud or local cluster)
 
 ---

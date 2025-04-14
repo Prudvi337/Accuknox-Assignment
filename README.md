@@ -41,7 +41,7 @@ Install a local Kubernetes cluster (using Minikube, K3s, or Kind), scan it using
 Build a minimal GoLang web server that shows the current date and time, containerize it using Docker, and deploy it to a Kubernetes cluster with 2 replicas exposed over the internet.
 
 **Deliverables**:
-- 👨‍💻 [GoLang App Source Code](./datetime-app/)
+- 👨‍💻 [GoLang App Source Code](./PS-3)
 - 🐳 Docker Image: [`prudvi77/datetime-app`](https://hub.docker.com/repository/docker/prudvi77/datetime-app)
 - 📦 Kubernetes Manifests:
   - [`deployment.yaml`](./PS-3/deployment.yaml)
@@ -76,7 +76,7 @@ Use the NodePort or external IP (if using cloud) to access the real-time date & 
 **Prudvi Kumar Reddy P**  
 📍 Hyderabad, Telangana  
 📧 prudvireddy7733@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/prudvi-reddy-5679662a5) | [GitHub](https://github.com/Prudvi337)
+🔗 [LinkedIn](https://www.linkedin.com/in/prudvi-kumar-reddy-5679662a5) | [GitHub](https://github.com/Prudvi337)
 
 ---
 
